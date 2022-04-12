@@ -1,0 +1,9 @@
+*.out
+*.txt
+*input*
+*output*
+*.in
+*.res
+*.zip
+solution.cpp
+solution.py
