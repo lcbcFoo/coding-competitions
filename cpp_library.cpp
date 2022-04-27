@@ -52,9 +52,9 @@
  */
 
 #ifdef DEBUG
-#define DEBUG(x) (std::cout << (x))
+#include "debug.hpp"
 #else 
-#define DEBUG(x)
+#define dbg(x)
 #endif
 
 
