@@ -5,5 +5,9 @@
 *.in
 *.res
 *.zip
+out
+res
+in
+comp
 solution.cpp
 solution.py
