@@ -9,5 +9,7 @@ out
 res
 in
 comp
+*.log
+log
 solution.cpp
 solution.py
